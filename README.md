@@ -1,1 +1,1 @@
-# 02THFunctionsArrays
+# 02thFunctionsArrays
